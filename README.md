@@ -28,9 +28,9 @@
     > > > Check it out -> [Itch.io](https://solartdev.itch.io)
     > > > > Art, Music, Code, Concept(ish) - by @andersonbelli
 
-[![Linkedin](https://img.shields.io/badge/-AndersonBelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=andersonbelli)](linkedin.com/in/andersonbelli)
-[![Youtube](https://img.shields.io/badge/-SolartDev-red?style=flat-square&logo=Youtube&logoColor=white&link=solartdev)](https://www.youtube.com/@SolartDev)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/andersonbelli/)
+[![Linkedin](https://img.shields.io/badge/-AndersonBelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=andersonbelli)](https://www.linkedin.com/in/andersonbelli)
+[![Youtube](https://img.shields.io/badge/-SolartDev-red?style=flat-square&logo=Youtube&logoColor=white&link=solartdev)](https://www.youtube.com/@SolartDev?sub_confirmation=1)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/andersonbelli)
 
 
 The truth is out there 🖖👽
