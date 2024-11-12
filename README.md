@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; justify-content: space-around;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonbelli&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonbelli&hide=contribs&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbelli&layout=compact&theme=tokyonight"/>
 </div>
 
